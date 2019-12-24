@@ -11,4 +11,5 @@ ct.Count(sys.argv[1])
 end = time.time()
 elapsed = end - start
 print("Time elapsed for the above is: " + str(elapsed))
+print("this added to the github")
 pr.Printnames_txt("\n count ended")
